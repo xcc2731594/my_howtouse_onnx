@@ -1,7 +1,7 @@
 # my_howtouse_onnx
 
-使用yolov5 onnx 输出的是 25200*85
-使用yolov8 v11 输出的是 84*8400 
+使用yolov5 onnx 输出的是 25200x85
+使用yolov8 v11 输出的是 84x8400 
 所以这里面涉及到一些矩阵转换
 
 yolov5：
