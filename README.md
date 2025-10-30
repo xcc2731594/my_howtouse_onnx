@@ -1,5 +1,8 @@
 # my_howtouse_onnx
 
+!! mian_2.cpp 是所有过程写在一个文件里了， main_4.cpp 是调用了detector_yolo**.cpp
+
+
 使用yolov5 onnx 输出的是 25200x85
 使用yolov8 v11 输出的是 84x8400 
 所以这里面涉及到一些矩阵转换
