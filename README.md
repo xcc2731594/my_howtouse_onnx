@@ -1,5 +1,10 @@
 # my_howtouse_onnx
 
+visualstudio中配置：
+C/C++ 常规：D:\onnxruntime-win-x64-1.17.3\include
+链接器 常规：D:\onnxruntime-win-x64-1.17.3\lib
+链接器 输入：onnxruntime.lib   onnxruntime_providers_shared.lib
+
 !! mian_2.cpp 是所有过程写在一个文件里了， main_4.cpp 是调用了detector_yolo**.cpp
 
 
